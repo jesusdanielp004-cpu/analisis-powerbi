@@ -20,7 +20,7 @@ Las organizaciones suelen gestionar su personal a ciegas, sin correlacionar fact
 Sistema de inteligencia de negocios diseñado para monitorear la cadena de suministro, analizar cuellos de botella en los procesos y auditar las causas raíz de los retrasos operativos.
 
 ### 📷 Vista del Dashboard
-![Dashboard Logístico](Dashboard logísitico.png)
+![Dashboard Logístico](Dashboardlogísitico.png)
 
 ### 🎯 El Reto de Negocio
 En la industria logística, cada hora de retraso se traduce en pérdidas financieras masivas y clientes insatisfechos. Este cuadro de mando fue desarrollado para responder a tres preguntas críticas de la gerencia de operaciones: ¿En qué etapa del proceso estamos perdiendo más tiempo?, ¿Qué ciudades no están cumpliendo con los niveles de servicio (SLA)? y ¿Cuáles son los factores externos que más impactan nuestras entregas?
